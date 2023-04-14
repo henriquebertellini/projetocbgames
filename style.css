@@ -9,10 +9,9 @@ body {
     height: 65px;
 }
 .localizaçãologo {
-    left: 300px;
-    right: ;
-    top:  30px;
-    bottom: ;
+    position: absolute; 
+	left: 90px; 
+	top: -60px;
 }
 /*
 .cabeçalho {
