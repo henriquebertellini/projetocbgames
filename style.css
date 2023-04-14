@@ -15,6 +15,13 @@ body {
     width: 100px;
     height: 120px;
 }
+.localizaçãosobre {
+    position: absolute; 
+	left: 100px; 
+	top: 40px;
+    width: 15px;
+    height: 15px;
+}
 /*
 .cabeçalho {
     width: 100%;
