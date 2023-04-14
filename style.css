@@ -1,3 +1,14 @@
 body {
-    background-image: ;
+    background-image: url("img/fundo.png");
+    background-size: 100%;
+    margin: 0px;
+}
+
+div {
+    width: 100%;
+  border: 15px solid #423E3E;
+  padding: 50px;
+  margin: 0px;
+  background-color: #423E3E;
+  
 }
