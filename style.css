@@ -4,10 +4,21 @@ body {
     margin: 0px;
 }
 
+.tamanhoelargura {
+    width: 1280px;
+    height: 65px;
+}
+.localizaçãologo {
+    left: 300px;
+    right: ;
+    top:  30px;
+    bottom: ;
+}
+/*
 .cabeçalho {
     width: 100%;
     height: 5rem;
-  /* border: 110px solid #423E3E; */
+
   margin: 0px;
   background-color: #423E3E;
   display: flex;
@@ -16,15 +27,17 @@ body {
   
 }
 
-/* .pesquisa {
+ .pesquisa {
     width: 15rem;
     height: 15rem;
   background-color: #143094;
   
-} */
+} 
 
 .pesquisa2 {
-  height: 65px;
+    width: 855px;
+  height: 55px;
   background-color:  #143094 ;
-  border-radius: 00% 0% 50% 50%;
+  border-radius: 0% 0% 60% 60%;
 }
+*/
