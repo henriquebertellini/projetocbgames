@@ -4,11 +4,27 @@ body {
     margin: 0px;
 }
 
-div {
+.cabeçalho {
     width: 100%;
-  border: 15px solid #423E3E;
-  padding: 50px;
+    height: 5rem;
+  /* border: 110px solid #423E3E; */
   margin: 0px;
   background-color: #423E3E;
+  display: flex;
+  justify-content: center;
   
+  
+}
+
+/* .pesquisa {
+    width: 15rem;
+    height: 15rem;
+  background-color: #143094;
+  
+} */
+
+.pesquisa2 {
+  height: 65px;
+  background-color:  #143094 ;
+  border-radius: 00% 0% 50% 50%;
 }
